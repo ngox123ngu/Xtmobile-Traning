@@ -1,0 +1,106 @@
+@media screen and (min-width:1200px)
+{
+		.container{width:1230px;}
+}
+
+@media screen and (min-width: 1024px)
+{
+	.header-top .header-left{width:30%;}
+	.header-top .header-search{width:36.75%;}
+	.header-top .header-right{width:33%;}
+	.header-nav .menutop{width:17.08%;}
+	.header-nav .header-links{width:82%;margin-left:auto;}
+	.header-nav .container{display:flex;-webkit-display:flex;flex-flow: row nowrap;flex:1 100%;}
+}
+
+@media screen and (max-width:1025px)
+{
+	 .logo-top{
+    display:  block;width: 100%;  text-align: center;
+    
+  }
+  .header-mobile-textlinks{display: block;}
+  .header-bn-normal{display: none}
+  .logo-top img {padding: 0;width: 150px;display: block;margin:0 auto;position: relative;top:7px;}
+
+	  .header-mobile-top{overflow: hidden; padding: 0px 10px 5px;position: relative;margin-bottom: 10px}	
+	.header_mobile_top {
+    background: #ff3300;padding:0px 0px;
+  }
+  	 .dl-menuwrapper { 
+    position: absolute;
+    -webkit-perspective: 1000px;
+    perspective: 1000px;top:15px;
+    -webkit-perspective-origin: 50% 200%;
+    perspective-origin: 50% 200%;left:5px;
+    
+  }
+  .header-showrooms{position: relative;}
+  .header-showrooms .box-showroom{width:100%;background:#fff;padding-top:10px;padding-bottom: 10px}
+  .header-showrooms .box-showroom .fa-angle-down{float:right;}
+    .header-showrooms .box-showroom b{padding-left: 20px}
+  .header-showrooms .box-showroom .icon-location{background-position: -223px -103px;width:17px;height: 23px;display: block;position: absolute;top:5px; }
+.header-showrooms.active .sub-showrooms{z-index: 9;width:100%;top:100%;}
+   .tit_mft {
+    color: #1269cb;
+     font-size:14px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid whitesmoke;
+    cursor: pointer;position: relative;
+   
+  }
+  .tit_mft:after{content:"";position: absolute;top:13px;right: 5px; background: url("../images/arrow_menu_fm.jpg") right no-repeat;display: block;width: 16px;height: 8px;}
+	.header-mobile-right{position: absolute;top:5px;right:10px;display: flex;-webkit-display:flex;flex-flow:row nowrap;}
+	.header-box-cart a{border:0;padding:0;}
+	.header-box-cart span{display: none}
+	.header-box-cart a i{top:0;position: relative;display: block;left:0;width:31px;height:36px;background-position: -151px -103px;transform:scale(0.9);-webkit-transform:scale(0.9);}
+	.header-box-cart a i strong{top:20px;left:9px}
+  .callcenter{width:auto;margin-left:0;margin-right: 10px;display: none}
+	.callcenter span{padding:0;}
+	.callcenter a{font-size: 14px}
+	.callcenter strong{font-size: 12px}
+	.callcenter i{display: none}
+	  .dl-menuwrapper .mf-hdimn{margin:0;float:none;background:url(../images/v3/right-menu-bars.svg) no-repeat;width: 35px;height: 35px; margin-top:0;}
+
+.box_mnft{background: #fff;border-radius: 5px;-webkit-border-radius:5px;padding:5px;margin:0 0 0px}
+  .menu_footer {margin-left:0;margin-right:0;}
+
+  .box_mnft .tit_mft{color: #333;border: 1px solid #f4f4f4;margin-bottom: 0; border-radius:5px;-webkit-border-radius:5px;padding:  10px;}
+   .box_mnft .collapsed{color: #1269cb;}
+  .social_network img {width: auto}
+  .footer-support{ border-bottom: 1px solid #ebebeb; padding-bottom: 10px;
+    margin-bottom: 10px;}
+  #vnt-footer  .footer-support:last-child{border:0;margin-bottom: 0}
+  .footer-support span{color: #000; text-transform: uppercase;margin-right:10px;padding-left: 10px}
+  .footer-support a{color:#ff5400;font-size: 18px;padding-left: 20px;background: url(../images/mobile/icon-call.png) left center no-repeat}
+
+
+}
+
+@media screen and (max-width:768px)
+{
+  .group-flag{bottom:10px;}
+  .group-flag span span, .group-flag .flag-installment{font-size:11px;}
+  .group-flag .item-group .flag{width:45px;height:45px;bottom:0;}
+  .grid-bound-home .price span.mobile-discount,
+  .boxItem-acc .div_price .price span.mobile-discount,
+  .product-base-grid .boxItem .price span.mobile-discount
+  
+  {color:#e00;font-size:10px;display: inline-block;text-decoration: none;margin-left:5px;font-weight: bold;}
+}
+
+@media screen and (max-width:991px)
+{
+  .group-flag-top .flag-discount{display: none}
+  .boxItem .product-meta{position:absolute;top:5px;right:-2px;}
+  .flag-online{height:20px;margin-bottom:5px;}
+  .nt-prepaid-installment{font-size:11px;padding:2px 5px;}
+  .note-pro,.fnote{font-size:11px}
+}
+
+@media screen and (max-width:480px)
+{
+	.row{margin-left:-5px;margin-right:-5px;}
+	.container{padding-left:5px;padding-right:5px;}
+}

@@ -1,0 +1,176 @@
+2021-07-05T04:38:33+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 7
+
+2021-07-05T04:40:33+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T04:41:54+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T04:43:27+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 25
+
+2021-07-05T04:45:36+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 25
+
+2021-07-05T04:46:27+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 24
+
+2021-07-05T04:46:35+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 24
+
+2021-07-05T04:47:28+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 24
+
+2021-07-05T04:47:52+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 24
+
+2021-07-05T05:13:34+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 24
+
+2021-07-05T05:15:50+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 25
+
+2021-07-05T05:16:04+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 25
+
+2021-07-05T05:16:11+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 25
+
+2021-07-05T05:16:23+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 25
+
+2021-07-05T05:18:54+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 23
+
+2021-07-05T05:19:43+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 23
+
+2021-07-05T05:20:39+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 23
+
+2021-07-05T05:21:25+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 19
+
+2021-07-05T05:23:35+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 24
+
+2021-07-05T05:30:05+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:6
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 6
+
+2021-07-05T05:32:24+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 7
+
+2021-07-05T05:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 7
+
+2021-07-05T05:34:08+00:00 CRITICAL Uncaught Error: Call to undefined function have_post() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 8
+
+2021-07-05T05:34:24+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:36:02+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:37:58+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:40:51+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:43:11+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:44:35+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:47:27+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T05:56:02+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T09:00:44+00:00 CRITICAL syntax error, unexpected ''taxonomy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 27
+
+2021-07-05T09:03:25+00:00 CRITICAL syntax error, unexpected ''taxonomy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 27
+
+2021-07-05T09:04:19+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 404
+
+2021-07-05T09:07:38+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 404
+
+2021-07-05T09:13:19+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 403
+
+2021-07-05T09:14:47+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 403
+
+2021-07-05T09:19:38+00:00 CRITICAL syntax error, unexpected ''number'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php on line 28
+
+2021-07-05T09:51:51+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T10:09:36+00:00 CRITICAL Uncaught Error: Call to undefined function setpostview() in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\page.php on line 9
+
+2021-07-05T10:55:32+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\content\item_product.php:6
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(732): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\index.php(57): get_template_part('content/item_pr...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\content\item_product.php on line 6
+

@@ -1,0 +1,20 @@
+2021-07-04T09:43:17+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 13
+
+2021-07-04T09:49:58+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:52:58+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:54:13+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:54:52+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:55:31+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:57:56+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:58:54+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T09:59:08+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
+2021-07-04T10:01:41+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\Xtmobile_Tranning\slider.php on line 24
+
